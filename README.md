@@ -11,3 +11,6 @@ https://www.softumeya.com/pyonkee/ja/
 ライセンスは、オリジナルと同じくCC BY-SA 2.0
 https://creativecommons.org/licenses/by-sa/2.0/deed.ja
 が適用されます。
+iPadといぬボード
+https://www.switch-science.com/catalog/5260/
+の組み合わせで動作することを確認しています。
