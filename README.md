@@ -1,6 +1,5 @@
 # Why_programming_13_Pyonkee
-NHK Eテレの番組「Why!?プログラミング」
-https://www.nhk.or.jp/school/sougou/programming/
+NHK Eテレの番組[「Why!?プログラミング」](https://www.nhk.or.jp/school/sougou/programming/)
 の「スーパーロボット・ワンだふぉーを直せ」
 https://www2.nhk.or.jp/school/movie/bangumi.cgi?das_id=D0005180314_00000
 のために、NHK_for_Schoolが作成し、ScratchのWebサイトで公開されているScratch 3.0のプロジェクトファイル
